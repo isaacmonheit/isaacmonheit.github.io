@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "First Spotify Website",
   "scripts": {
-    "start": "http-server public/"
+    "start": "http-server"
   },
   "author": "Isaac Monheit",
   "dependencies": {
