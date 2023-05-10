@@ -1,0 +1,12 @@
+{
+  "name": "first-spotify-website",
+  "version": "0.0.1",
+  "description": "First Spotify Website",
+  "scripts": {
+    "start": "http-server public/"
+  },
+  "author": "Isaac Monheit",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
