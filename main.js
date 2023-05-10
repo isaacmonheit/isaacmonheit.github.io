@@ -334,7 +334,7 @@
   // Your client id from your app in the spotify dashboard:
   // https://developer.spotify.com/dashboard/applications
   const client_id = 'a47295d0a8eb4eaf99168106147237be';
-  const redirect_uri = 'https://isaacmonheit.github.io/'; // Your redirect uri
+  const redirect_uri = 'https://isaacmonheit.github.io/first-spotify-website/callback.html'; // Your redirect uri
 
   // Restore tokens from localStorage
   let access_token = localStorage.getItem('access_token') || null;
